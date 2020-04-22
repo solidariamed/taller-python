@@ -1,1 +1,1 @@
-# taller-python
+# Formación Solidaria: taller-python
