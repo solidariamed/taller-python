@@ -1,0 +1,10 @@
+1. C
+2. Programa: Es un conjunto de instrucciones que indican cómo realizar algún tipo de calculo.
+3.El compilador es quien traduce un programa completo de alto nivel, a un lenguaje listo para su posterior ejecución y un intréprete es quien ejecuta el programa traduciéndolo linea a linea.
+4. B
+5. >>> print ("¡Hola mundo"!)
+6. C
+7. D
+8. UCP: el corazón, es el centro de la computadora y ejecuta el software que escribimos. La memoria secundaria: El Cerebro, porque almacena los datos mantiene la información
+Dispositivo de entrada: la Boca. Dispositivo de salida: los Poros, los lagrimales.
+9. Para correir un error de sintaxis, se debe leer detenidamente para saber si se cometió un error gramatical en el idioma de python.
