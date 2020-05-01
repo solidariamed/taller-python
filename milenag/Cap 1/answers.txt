@@ -4,15 +4,53 @@ apagado y encendido.
 2 - Instrucciones que indican como realizar cualquier cosa. 
 
 3 - El compilador necesita el codigo hecho para ejecutar, mas que el interprete analiza el codigo y lo entiende.
+Tendríamos que ser un poco más precisos. La CPU entiende solo código máquina. Tanto
+el compilador como el interpreter traducen un programa a código máquina para que se
+pueda ejecutar. La diferencia está en cómo lo hacen.
+
+En los lenguajes que necesitan de un compilador (como C) uno escribe un programa, 
+luego lo compila para generar un archivo ejecutable que pueda procesar la CPU. 
+Este archivo ejecutable depende de la máquina en la que uno este y del sistema 
+operativo que uno use. Así que si uno quiere ejecutar el programa en otra máquina 
+tiene que generar un nuevo ejecutable para es máquina.
+
+En los lenguajes que utilizan un interpreter se tiene que instalar primero un 
+programa que nos permita hacer la traducción en tiempo de ejecución. Eso fue lo 
+que hicimos cuando instalamos Python. De esta manera la ejecución de nuestro 
+progrma no va a depender de la máquina en la que estemos, porque una vez instalado
+el interpreter este se encarga de pasarle los mensajes a la CPU.
+
+Un interpreter es como contratar un traductor cuando vamos a alemania, por ejemplo,
+para que medida que vamos hablando el traductor transmite nuestros mensajes al lenguaje 
+que entienden los alemanes. Un compilador también es como contratar a un traductor
+pero este solicita que le mandemos primero todo lo que le queremos decir a un alemán,
+nos entrega el mensaje traducido para que ahí si nos comuniquemos con el alemán.
 
 4 - ¿Cuál de los siguientes contiene “código máquina”?
 (b) El teclado
+En este caso es la respuesta a) El intérprete de Python, porque esta escrito en el
+lenguaje C, que un lenguaje compilado. Así que Python por debajo utiliza C para 
+poder ejecutar programas.
+
+El teclado no podría ser porque al ser un dispositivo de entrada sus señales son
+interpretadas por otros componentes del sistema operativo de mucho más bajo nivel,
+que son lo que finalmente tienen la comunicación directa con la CPU.
 
 5 - * primt * -> print
 
 6 - (a) Unidad central de procesamiento
+En este caso sería la b) Memoria Principal. Es la que conocemos comúnmente como 
+memoria RAM. La unidad central de procesamiento se utiliza para realiza operaciones
+sobre variable. Una vez creada una variable, el sistema operativo separará un espacio
+en la memoria principal de modo que la CPU pueda acceder a ella fácilmente cuando la
+necesite.
 
 7 - (a) 43
+En este caso sería la b) 44. Cuando creamos una variable la podemos usar después 
+realizar operación con el valor que se le asignó. En la segunda línea de código
+(x = x + 1) en el lado derecho del igual x es una variable que contiene el 43 que al
+ser sumado con 1 da 44. Del lado izquierdo volvemos y usamos la x para asignarle el 
+valor del lado derecho (44). Es como actualizar la x.
 
 8 - Explica cada uno de los siguientes conceptos usando un ejemplo de una capacidad humana:
 (1) Unidad central de procesamiento : el cerebro procesando informacion todo el tiempo
@@ -21,4 +59,8 @@ apagado y encendido.
 (4) Dispositivos de entrada : los sentidos 
 (5) Dispositivos de salida : hablar
 
+Que buenas analogías!
+
 9 - Revisando y analizando el código, posteriormente mirar el error de redacción del código y corregirlo
+
+Super que hayas estado atenta a lo que hemos podido avanzar :)
