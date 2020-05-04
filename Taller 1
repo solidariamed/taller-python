@@ -1,0 +1,64 @@
+TALLER CAPITULO 1
+
+1. ¿Cuál es la función de la memoria secundaria en una computadora?
+
+a.(_) Ejecutar todos los calculos y la lógica del programa
+b.(_) Descargar páginas web
+c.(X) Almacenar información durante mucho tiempo, incluso después de ciclos de apagado y encendido
+d.(_) Recolectar la entrada del usuario
+
+2. ¿Qué es un programa?
+
+Un programa es un conjunto de comandones u ordenes lógicas que tienen una finalidad o función especifica
+
+3. ¿Cuál es la diferencia entre un compilador y un interprete?
+
+Ambos hacen parte de los traductores de lenguaje de programación. El interprete es el que "lee, analiza e interpreta" las instrucciones de un programa, es el que mantiene la conversación entre la maquina y la orden. Mientras que el compilador es el que traduce una serie de comandos o un programa hecho en código de alto nivel a código máquina.
+
+4. ¿Cuál de los siguientes programas contiene ´código maquina´?
+
+a.(_) El intérprete de Python
+b.(_) El teclado
+c.(X) El código fuente de Python
+d.(_) Un documento de un procesador de texto
+
+5. ¿Qué esta mal en el siguiente código?
+
+>>> primt '¡Hola, mundo!'
+File "<stdin>", line 1
+primt '¡Hola, mundo!'
+^
+SyntaxError: invalid syntax
+>>>
+
+Faltan los parentesis que indica que se va a escribir un texto para mostrar en pantalla, además se debe escribir ´print´ no ´primt´
+
+7. ¿Qué mostrará en pantalla en pantalla el siguiente programa?
+
+x = 43
+x = x + 1
+print(x)
+
+a.(x) 43
+b.(_) 44
+c.(_) x + 1
+d.(_) Error, porque x = x + 1 no es posible matemáticamente
+
+8. Explica cada uno de los siguientes conceptos usando un ejemplo de una capacidad humana:
+
+a. Unidad central de procesamiento: 
+b. Memoria principal: es aquella que almacena la información que se necesita en un lapso de tiempo corto o aquella que utilizan los programas. Se puede comparar con la capacidad humana de olvidar cosas que se hacen durante el día y no son lo suficientemente relevantes para recordar al día siguiente
+c. Memoria secundaria: memoria que almacena información por un tiempo prolongado, incluso después de prender y apagar. Esta se puede relacionar con la capacidad humana de la memoria, donde diferentes sucesos quedan grabados por mucho tiempo, por ejemplo los recuerdos de algún viaje, nuestro nombre, entre otros
+d. Dispositivos de entrada: Son los que permiten el ingreso de información a la máquina por ejemplo teclados o mouse. Se puede comparar con la capacidad de observar o escuchar en humanos, por allí ingresa información a nuestro cerebro
+e. Dispositivos de salida: Es el dispositivo que permite que los humanos podamos acceder a la información que hay en una máquina, por ejemplo pantallas y parlantes. Se puede comparar con la capacidad de hablar o expresar ideas de forma verbal o corporal
+
+9. ¿Cómo puedes corregir un ´error de sintaxis´?
+
+Para corregir un error de sintaxis es necesario revisar la manera en que se escribio la orden, teniendo en cuenta cómo son las reglas de escritura. También se debe considera la información que arroja el programa sobre el error, pues es común que allí se señale donde esta (se debe tener en cuenta que ocasiones el error puede estar en líneas anteriores a la que se muestra)
+
+
+
+
+
+
+
