@@ -34,7 +34,7 @@ poder ejecutar programas.
 
 El teclado no podría ser porque al ser un dispositivo de entrada sus señales son
 interpretadas por otros componentes del sistema operativo de mucho más bajo nivel,
-que son lo que finalmente tienen la comunicación directa con la CPU.
+que son los que finalmente tienen la comunicación directa con la CPU.
 
 5 - * primt * -> print
 

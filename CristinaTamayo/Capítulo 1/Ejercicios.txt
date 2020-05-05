@@ -1,10 +1,55 @@
 1. C
 2. Programa: Es un conjunto de instrucciones que indican cómo realizar algún tipo de calculo.
+Esto es cierto, aunque algo un poco más preciso sería un conjunto
+de sentencias para realizar alguna tarea. Un programa se refiere a
+la implementación de un conjunto de instrucciones en un lenguaje de
+programación a través de sentencias que componen por lo general muchos
+cálculos.
+
 3.El compilador es quien traduce un programa completo de alto nivel, a un lenguaje listo para su posterior ejecución y un intréprete es quien ejecuta el programa traduciéndolo linea a linea.
+En el computador es la CPU, que se conoce comunmente como procesador, quien
+ejecuta todas las instrucciones de todos los programas. La diferencia entre 
+el compilador y el intérprete esta en la forma como le transmiten las
+instrucciones a la CPU. Mira la devolución de milena donde amplio un poco más
+esto.
+
 4. B
+En este caso es opción c), el código fuente de Python. También en la devolución
+de milena le argumento por esto es así.
+
 5. >>> print ("¡Hola mundo"!)
 6. C
+En este caso es la opción b), memoria principal. El computador esta diseñado de
+tal manera que dada su arquitectura se optimice mucho el uso de sus recursos.
+En la ejecución de un programa se declaran muchas variables para
+almacenar valores que serán usados en pasos posteriores del programa. Es la
+memoria principal, comunmente conocida como memoria RAM, la encargada de guardar
+todas las variables de todos los programas que se ejecutan en sistema operativo
+para que esten disponibles en un lugar donde a la CPU no le cueste acceder tanto
+a ellas. La CPU es la que finalmente ejecuta todas las instrucciones. La memoria
+secundaria es la que guarda toda la información que deseamos que sea permanente.
+En este tipo de memorias tenemos los discos duro, las memorias USB, la unidades
+de estado solido, etc. Si en la memoria secundaria se guardaran la variables de
+los programas, a la CPU le costaría mucho acceder a ellas y la ejecución de los
+programas sería muy lento.
+
 7. D
+En este caso la respuesta es la b) 44. La primera sentencia es x = 43, donde se
+indica que a la variable x le queremos asignar el número 43. Después que
+se ejecute, la variables x la podemos usar en pasos posteriores y sabemos que
+representa el número 43, así que podemos realizar operaciones matemáticas con ella.
+En los leguajes de programación en una sentencia de asignación, primero se ejecuta
+el lado derecho del igual y el resultado de esta operación se asigna a la variable del
+lado izquierdo. En la sentencia x = x + 1, primero se ejecuta x + 1, que da como
+resultado 44 (x en ese momento representa el 43) y se asigna a la variable x. Es
+como haber actualizado el valor de x. Así que x termina reprensentando el 44.
+
+
 8. UCP: el corazón, es el centro de la computadora y ejecuta el software que escribimos. La memoria secundaria: El Cerebro, porque almacena los datos mantiene la información
 Dispositivo de entrada: la Boca. Dispositivo de salida: los Poros, los lagrimales.
+La unidad central de procesamiento no podria ser el corazón, porque este no procesa
+información. La CPU, la memoria principal y la secundaria estarían en el cerebro, en
+ese entramado complejo que es.
+
+
 9. Para correir un error de sintaxis, se debe leer detenidamente para saber si se cometió un error gramatical en el idioma de python.
