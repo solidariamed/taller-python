@@ -14,6 +14,9 @@ Un programa es un conjunto de comandones u ordenes lógicas que tienen una final
 3. ¿Cuál es la diferencia entre un compilador y un interprete?
 
 Ambos hacen parte de los traductores de lenguaje de programación. El interprete es el que "lee, analiza e interpreta" las instrucciones de un programa, es el que mantiene la conversación entre la maquina y la orden. Mientras que el compilador es el que traduce una serie de comandos o un programa hecho en código de alto nivel a código máquina.
+Aquí es necesario ser claros en varias cosas. Los dos tienen que traducir a código máquina las
+sentencias de un programa. La diferencia está es cómo lo hacen. Lee la aclaración que le hice
+a milena donde amplio un poco más esto.
 
 4. ¿Cuál de los siguientes programas contiene ´código maquina´?
 
@@ -44,6 +47,14 @@ b.(_) 44
 c.(_) x + 1
 d.(_) Error, porque x = x + 1 no es posible matemáticamente
 
+Aquí la respuesta sería la b. En los lenguajes de programación por lo general se
+define que en una sentencia de asignación primero se ejecuta el lado derecho del
+igual y luego se asigna el resultado a la variable del lado izquierdo. Cuando se
+ejecuta la sentencia x = x + 1 primero se ejecuta x + 1. Como la variable x en
+ese momento representa el 43 (en el paso anterio se le asigno ese valor) entonces
+esa operación da como resultado 44. Luego se asigna a la variable del lado
+izquierdo, es decir, a la x. Esto es como actualizar a x.
+
 8. Explica cada uno de los siguientes conceptos usando un ejemplo de una capacidad humana:
 
 a. Unidad central de procesamiento: 
@@ -52,13 +63,12 @@ c. Memoria secundaria: memoria que almacena información por un tiempo prolongad
 d. Dispositivos de entrada: Son los que permiten el ingreso de información a la máquina por ejemplo teclados o mouse. Se puede comparar con la capacidad de observar o escuchar en humanos, por allí ingresa información a nuestro cerebro
 e. Dispositivos de salida: Es el dispositivo que permite que los humanos podamos acceder a la información que hay en una máquina, por ejemplo pantallas y parlantes. Se puede comparar con la capacidad de hablar o expresar ideas de forma verbal o corporal
 
+En este punto era hacer una analogía con partes o capacidades humanas. La unidad central de
+procesamiento, la memoria principal y secundaria estaría, por ejemplo, dentro de las
+funciones del cerebro.
+
 9. ¿Cómo puedes corregir un ´error de sintaxis´?
 
 Para corregir un error de sintaxis es necesario revisar la manera en que se escribio la orden, teniendo en cuenta cómo son las reglas de escritura. También se debe considera la información que arroja el programa sobre el error, pues es común que allí se señale donde esta (se debe tener en cuenta que ocasiones el error puede estar en líneas anteriores a la que se muestra)
 
-
-
-
-
-
-
+Que bien aleja, se ve que lo pensaste!!
