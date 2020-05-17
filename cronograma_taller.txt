@@ -1,0 +1,32 @@
+Semana 2 - mayo 4 a mayo 10
+    Capitulo 2: Variables, expresiones y sentencias
+
+Semana 3 - mayo 11 a mayo 17
+    Capitulo 3: Ejecución condicional
+
+Semana 4 - mayo 18 a mayo 24
+    Capitulo 4: Funciones
+
+Semana 5 - mayo 25 a mayo 31
+    Capitulo 5: Iteración
+
+Semana 6 - junio 1 a junio 7
+    Capitulo 6: Cadenas
+
+Semana 7 - junio 8 a junio 14
+    Capitulo 7: Archivos
+
+Semana 8 - junio 15 a junio 21
+    Capitulo 8: Listas
+
+Semana 9 - junio 22 a junio 28
+    Capitulo 9: Diccionarios
+
+Semana 10 - junio 29 a julio 5
+    Capitulo 10: Tuplas
+
+Semana 11 - julio 6 a julio 12
+    Capitulo 14: Programación Orientada a Objetos
+
+Semana 12 - julio 13 a julio 19
+    Capitulo 15: Bases de datos y SQL
