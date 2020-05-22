@@ -1,0 +1,57 @@
+1.  ¿qué tipo de datos son los siguientes valores?
+    a. '45'
+    b. 'perro'
+    c. 38
+    d. '4.9'
+    e. 'gato'
+    f. 23.4
+
+2.  Cree una variable que se llame country y asígnele
+    el nombre nuestro país.
+
+3.  Cree una variable que se llame height y asígnele
+    el valor su estarura.
+
+4.  Cree una variable que se llame school y asígnele el
+    nombre del colegio donde estudio.
+
+5.  Nombre 10 palabras clave de python
+
+6.  Cree una variable que se llame pet. Asígnele el nombre
+    de alguna mascota. Utilizando la variable anterior,
+    escriba la instrucción para que se imprima en consola:
+   
+    Mi mascota NOMBRE_MASCOTA es un animal muy destructivo
+
+    En NOMBRE_MASCOTA debe ir el valor que se le asigno a
+    la variable pet.
+
+7.  Dada la siguiente sentenca de asignación:
+   
+    hours = 3
+
+    utilice la variable hours para escribir una expresión
+    que calcule el número de minutos que hay en tres horas.
+
+8.  Dada las siguientes instrucciones:
+
+    number = '30'
+    number2 = number / 10
+
+    ¿qué problema hay con la segunda instrucción?
+
+9.  Dada la expresión 10//3, cuál es el resultado correcto:
+
+    a. 3.33
+    b. 3.3333
+    c. 3
+    d. 2
+
+10. Para las siguiente operaciones diga cuál es su resultado:
+
+    a.  2**(5-3)
+    b.  (3+2)*9
+    c.  3**6-3
+    d.  9-4/2
+    e.  6/3-12*2
+
